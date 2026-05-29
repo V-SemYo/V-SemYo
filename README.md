@@ -6,6 +6,13 @@
 
 ---
 
+### 👋 Hi, I'm Ivan — Golang Backend Developer
+
+I build backend services with Go, Docker, and PostgreSQL.  
+I enjoy creating working products, maintaining code, and crushing bugs.
+
+---
+
 ### 🛠 Технологии
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
