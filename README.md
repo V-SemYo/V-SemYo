@@ -47,7 +47,7 @@
 ---
 
 <details>
-  <summary>🇬🇧 In English</summary>
+  <summary> In English</summary>
   
   ### 👋 Hi, I'm Ivan — Golang Backend Developer
   
