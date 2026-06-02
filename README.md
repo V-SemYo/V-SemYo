@@ -37,7 +37,7 @@
 
 | | |
 |:---|:---|
-| 🗂️ **[go-todo-project](https://github.com/V-SemYo/go-todo-project)** | Веб-приложение «Список дел» — диплом |
+| 🗂️ **[go-todo-project](https://github.com/V-SemYo/go-todo-project)** | Веб-приложение «Список дел» |
 | 📫 **[go-parcel-tracker-workflow](https://github.com/V-SemYo/go-parcel-tracker-workflow)** | Трекер посылок с CI/CD |
 | 🐳 **[go-parcel-tracker-docker](https://github.com/V-SemYo/go-parcel-tracker-docker)** | Трекер посылок в Docker |
 | 📬 **[go-parcel-tracker](https://github.com/V-SemYo/go-parcel-tracker)** | Базовый трекер посылок |
