@@ -43,6 +43,7 @@
 | 📬 **[go-parcel-tracker](https://github.com/V-SemYo/go-parcel-tracker)** | Базовый трекер посылок |
 | 🧘 **[go-fitness-tracker-refactored](https://github.com/V-SemYo/go-fitness-tracker-refactored)** | Фитнес-трекер (рефакторинг) |
 | 🤖 **[my-fitness-bot](https://github.com/V-SemYo/my-fitness-bot)** | Telegram-бот для фитнеса |
+| 🔄 **[multisync](https://github.com/V-SemYo/multisync)** | Синхронизация файлов с WebDAV серверами |
 
 ---
 
