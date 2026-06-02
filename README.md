@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>👋 меня зовут Иван</h1>
+  <h1>Привет, меня зовут Иван</h1>
   <h3>Golang Backend Developer</h3>
   
   <a href="https://t.me/tvoy_Vanya">
