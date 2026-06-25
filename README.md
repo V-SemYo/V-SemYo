@@ -37,6 +37,7 @@
 
 | | |
 |:---|:---|
+| 🖤 **[horror-facts](https://github.com/V-SemYo/horror-facts)** | База фильмов ужасов с реальными фактами и ИИ-поиском |
 | 🗂️ **[go-todo-project](https://github.com/V-SemYo/go-todo-project)** | Веб-приложение «Список дел» |
 | 📫 **[go-parcel-tracker-workflow](https://github.com/V-SemYo/go-parcel-tracker-workflow)** | Трекер посылок с CI/CD |
 | 🐳 **[go-parcel-tracker-docker](https://github.com/V-SemYo/go-parcel-tracker-docker)** | Трекер посылок в Docker |
