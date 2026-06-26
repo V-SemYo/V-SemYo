@@ -39,12 +39,12 @@
 |:---|:---|
 | 🖤 **[horror-facts](https://github.com/V-SemYo/horror-facts)** | База фильмов ужасов с реальными фактами и ИИ-поиском |
 | 🗂️ **[go-todo-project](https://github.com/V-SemYo/go-todo-project)** | Веб-приложение «Список дел» |
+| 🔄 **[multisync](https://github.com/V-SemYo/multisync)** | Синхронизация файлов с WebDAV серверами |
 | 📫 **[go-parcel-tracker-workflow](https://github.com/V-SemYo/go-parcel-tracker-workflow)** | Трекер посылок с CI/CD |
 | 🐳 **[go-parcel-tracker-docker](https://github.com/V-SemYo/go-parcel-tracker-docker)** | Трекер посылок в Docker |
 | 📬 **[go-parcel-tracker](https://github.com/V-SemYo/go-parcel-tracker)** | Базовый трекер посылок |
 | 🧘 **[go-fitness-tracker-refactored](https://github.com/V-SemYo/go-fitness-tracker-refactored)** | Фитнес-трекер (рефакторинг) |
 | 🤖 **[my-fitness-bot](https://github.com/V-SemYo/my-fitness-bot)** | Telegram-бот для фитнеса |
-| 🔄 **[multisync](https://github.com/V-SemYo/multisync)** | Синхронизация файлов с WebDAV серверами |
 
 ---
 
